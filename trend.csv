@@ -1,0 +1,101 @@
+TrendID,ProductCategory,Year,Quarter,Region,SalesGrowthRate,CustomerSatisfactionIndex,CompetitorPerformance,MarketShare,PromotionEffectivenessIndex,AverageSellingPrice,NewEntrants,MarketDemand,SeasonalVariation,EconomicFactors
+1,Smartphones,2023,Q1,North America,5.6,85,4.5,20,78,699,2,High,Medium,Positive
+2,Smartphones,2023,Q2,North America,4.8,87,4.2,19,80,689,1,Medium,Low,Stable
+3,Smartphones,2023,Q3,North America,6.3,88,4.8,21,83,710,3,High,High,Positive
+4,Smartphones,2023,Q4,North America,5.1,86,4.4,20,79,702,2,Medium,Medium,Negative
+5,Tablets,2023,Q1,North America,3.4,82,3.9,15,72,499,2,High,Medium,Positive
+6,Tablets,2023,Q2,North America,2.8,81,3.7,14,70,495,1,Medium,Low,Stable
+7,Tablets,2023,Q3,North America,3.9,83,4.1,16,74,505,3,High,High,Positive
+8,Tablets,2023,Q4,North America,3.5,82,3.8,15,73,500,2,Medium,Medium,Negative
+9,Laptops,2023,Q1,North America,4.2,84,4.0,18,75,899,2,High,Medium,Positive
+10,Laptops,2023,Q2,North America,3.7,83,3.8,17,74,885,1,Medium,Low,Stable
+11,Laptops,2023,Q3,North America,4.8,85,4.3,19,77,910,3,High,High,Positive
+12,Laptops,2023,Q4,North America,4.3,84,4.0,18,76,900,2,Medium,Medium,Negative
+13,Smartphones,2024,Q1,North America,5.9,87,4.6,21,82,705,2,High,Medium,Positive
+14,Smartphones,2024,Q2,North America,5.2,88,4.3,20,84,695,1,Medium,Low,Stable
+15,Smartphones,2024,Q3,North America,6.7,89,4.9,22,87,715,3,High,High,Positive
+16,Smartphones,2024,Q4,North America,5.4,87,4.5,21,83,707,2,Medium,Medium,Negative
+17,Tablets,2024,Q1,North America,3.7,83,4.0,16,76,505,2,High,Medium,Positive
+18,Tablets,2024,Q2,North America,3.0,82,3.8,15,74,501,1,Medium,Low,Stable
+19,Tablets,2024,Q3,North America,4.2,84,4.2,17,78,510,3,High,High,Positive
+20,Tablets,2024,Q4,North America,3.8,83,3.9,16,77,505,2,Medium,Medium,Negative
+21,Laptops,2024,Q1,North America,4.5,85,4.1,19,79,905,2,High,Medium,Positive
+22,Laptops,2024,Q2,North America,4.0,84,3.9,18,78,890,1,Medium,Low,Stable
+23,Laptops,2024,Q3,North America,5.1,86,4.4,20,81,915,3,High,High,Positive
+24,Laptops,2024,Q4,North America,4.6,85,4.1,19,80,905,2,Medium,Medium,Negative
+25,Smartphones,2023,Q1,Europe,6.2,84,4.7,22,85,720,3,High,High,Stable
+26,Smartphones,2023,Q2,Europe,5.7,85,4.5,21,84,710,2,Medium,Medium,Positive
+27,Smartphones,2023,Q3,Europe,7.0,86,4.9,23,88,730,4,High,High,Positive
+28,Smartphones,2023,Q4,Europe,6.4,85,4.6,22,86,725,3,Medium,Medium,Negative
+29,Tablets,2023,Q1,Europe,4.0,81,4.1,17,79,515,3,High,High,Stable
+30,Tablets,2023,Q2,Europe,3.4,80,3.9,16,77,510,2,Medium,Medium,Positive
+31,Tablets,2023,Q3,Europe,4.5,82,4.3,18,81,520,4,High,High,Positive
+32,Tablets,2023,Q4,Europe,4.1,81,4.0,17,80,515,3,Medium,Medium,Negative
+33,Laptops,2023,Q1,Europe,4.7,83,4.2,20,82,920,3,High,High,Stable
+34,Laptops,2023,Q2,Europe,4.2,82,4.0,19,81,910,2,Medium,Medium,Positive
+35,Laptops,2023,Q3,Europe,5.4,84,4.5,21,85,930,4,High,High,Positive
+36,Laptops,2023,Q4,Europe,4.8,83,4.2,20,83,920,3,Medium,Medium,Negative
+37,Smartphones,2024,Q1,Europe,6.5,85,4.8,23,87,725,3,High,High,Stable
+38,Smartphones,2024,Q2,Europe,6.0,86,4.6,22,86,715,2,Medium,Medium,Positive
+39,Smartphones,2024,Q3,Europe,7.3,87,5.0,24,90,735,4,High,High,Positive
+40,Smartphones,2024,Q4,Europe,6.7,86,4.7,23,88,730,3,Medium,Medium,Negative
+41,Tablets,2024,Q1,Europe,4.3,82,4.2,18,83,520,3,High,High,Stable
+42,Tablets,2024,Q2,Europe,3.7,81,4.0,17,81,515,2,Medium,Medium,Positive
+43,Tablets,2024,Q3,Europe,4.8,83,4.4,19,85,525,4,High,High,Positive
+44,Tablets,2024,Q4,Europe,4.2,82,4.1,18,83,520,3,Medium,Medium,Negative
+45,Laptops,2024,Q1,Europe,5.0,84,4.3,21,86,925,3,High,High,Stable
+46,Laptops,2024,Q2,Europe,4.5,83,4.1,20,85,915,2,Medium,Medium,Positive
+47,Laptops,2024,Q3,Europe,5.6,85,4.6,22,89,935,4,High,High,Positive
+48,Laptops,2024,Q4,Europe,5.1,84,4.3,21,87,925,3,Medium,Medium,Negative
+49,Smartphones,2023,Q1,Asia,7.1,83,5.0,25,90,750,4,High,High,Positive
+50,Smartphones,2023,Q2,Asia,6.6,84,4.8,24,89,740,3,Medium,Medium,Positive
+51,Smartphones,2023,Q3,Asia,8.0,85,5.3,26,92,760,5,High,High,Positive
+52,Smartphones,2023,Q4,Asia,7.4,84,5.0,25,90,755,4,Medium,Medium,Negative
+53,Tablets,2023,Q1,Asia,5.0,80,4.5,20,85,520,3,High,High,Positive
+54,Tablets,2023,Q2,Asia,4.4,79,4.3,19,83,515,2,Medium,Medium,Positive
+55,Tablets,2023,Q3,Asia,5.6,81,4.8,21,87,530,4,High,High,Positive
+56,Tablets,2023,Q4,Asia,5.0,80,4.5,20,85,525,3,Medium,Medium,Negative
+57,Laptops,2023,Q1,Asia,6.0,82,4.9,23,88,930,4,High,High,Positive
+58,Laptops,2023,Q2,Asia,5.4,81,4.7,22,86,920,3,Medium,Medium,Positive
+59,Laptops,2023,Q3,Asia,6.6,83,5.2,24,90,945,5,High,High,Positive
+60,Laptops,2023,Q4,Asia,6.1,82,4.9,23,88,935,4,Medium,Medium,Negative
+61,Smartphones,2024,Q1,Asia,8.3,86,5.5,27,93,765,5,High,High,Positive
+62,Smartphones,2024,Q2,Asia,7.8,87,5.3,26,92,755,4,Medium,Medium,Positive
+63,Smartphones,2024,Q3,Asia,9.0,88,5.8,28,95,770,6,High,High,Positive
+64,Smartphones,2024,Q4,Asia,8.4,87,5.5,27,93,765,5,Medium,Medium,Negative
+65,Tablets,2024,Q1,Asia,5.3,81,4.6,21,88,525,4,High,High,Positive
+66,Tablets,2024,Q2,Asia,4.7,80,4.4,20,86,520,3,Medium,Medium,Positive
+67,Tablets,2024,Q3,Asia,5.9,82,4.9,22,90,535,5,High,High,Positive
+68,Tablets,2024,Q4,Asia,5.3,81,4.6,21,88,530,4,Medium,Medium,Negative
+69,Laptops,2024,Q1,Asia,6.3,83,5.0,24,91,935,5,High,High,Positive
+70,Laptops,2023,Q2,South America,4.9,81,4.0,18,82,680,1,Medium,Low,Positive
+71,Laptops,2024,Q3,Asia,6.9,84,5.3,25,93,950,6,High,High,Positive
+72,Laptops,2024,Q4,Asia,6.4,83,5.0,24,91,940,5,Medium,Medium,Negative
+73,Smartphones,2023,Q1,South America,5.5,80,4.2,19,83,690,2,High,Medium,Stable
+74,Smartphones,2023,Q2,South America,4.9,81,4.0,18,82,680,1,Medium,Low,Positive
+75,Smartphones,2023,Q3,South America,6.4,83,4.5,20,85,700,3,High,High,Positive
+76,Smartphones,2023,Q4,South America,5.3,82,4.2,19,84,695,2,Medium,Medium,Negative
+77,Tablets,2023,Q1,South America,3.2,78,3.7,14,71,485,2,High,Medium,Stable
+78,Tablets,2023,Q2,South America,2.6,77,3.5,13,69,480,1,Medium,Low,Positive
+79,Tablets,2023,Q3,South America,3.7,79,4.0,15,73,490,3,High,High,Positive
+80,Tablets,2023,Q4,South America,3.3,78,3.7,14,72,485,2,Medium,Medium,Negative
+81,Laptops,2023,Q1,South America,4.0,81,3.8,17,74,865,2,High,Medium,Stable
+82,Laptops,2023,Q2,South America,3.5,80,3.6,16,73,850,1,Medium,Low,Positive
+83,Laptops,2023,Q3,South America,4.6,82,4.1,18,76,875,3,High,High,Positive
+84,Laptops,2023,Q4,South America,4.1,81,3.8,17,75,865,2,Medium,Medium,Negative
+85,Smartphones,2024,Q1,South America,5.8,82,4.3,20,86,695,2,High,Medium,Stable
+86,Smartphones,2024,Q2,South America,5.2,83,4.1,19,85,685,1,Medium,Low,Positive
+87,Smartphones,2024,Q3,South America,6.7,85,4.6,21,88,705,3,High,High,Positive
+88,Smartphones,2024,Q4,South America,5.6,84,4.3,20,87,700,2,Medium,Medium,Negative
+89,Tablets,2024,Q1,South America,3.5,79,3.8,15,74,490,2,High,Medium,Stable
+90,Tablets,2024,Q2,South America,2.9,78,3.6,14,72,485,1,Medium,Low,Positive
+91,Tablets,2024,Q3,South America,4.0,80,4.1,16,76,495,3,High,High,Positive
+92,Tablets,2024,Q4,South America,3.6,79,3.8,15,75,490,2,Medium,Medium,Negative
+93,Laptops,2024,Q1,South America,4.3,82,3.9,18,77,870,2,High,Medium,Stable
+94,Laptops,2024,Q2,South America,3.8,81,3.7,17,76,855,1,Medium,Low,Positive
+95,Laptops,2024,Q3,South America,4.9,83,4.2,19,79,880,3,High,High,Positive
+96,Laptops,2024,Q4,South America,4.4,82,3.9,18,78,870,2,Medium,Medium,Negative
+97,Smartphones,2023,Q1,Africa,7.0,79,4.9,24,88,730,3,High,High,Positive
+98,Smartphones,2023,Q2,Africa,6.4,80,4.7,23,87,720,2,Medium,Medium,Stable
+99,Smartphones,2023,Q3,Africa,8.1,81,5.2,25,90,740,4,High,High,Positive
+100,Smartphones,2023,Q4,Africa,7.5,80,4.9,24,88,735,3,Medium,Medium,Negative
