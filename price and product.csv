@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Description,Price,Currency,StockQuantity,Manufacturer,WarrantyPeriod,Rating,Discount
+1,Smartphone X1,Electronics,Latest model with 128GB storage,699,USD,150,Samsung,1 year,4.5,10%
+2,Smartphone X2,Electronics,Advanced model with 256GB storage,799,USD,100,Apple,1 year,4.8,5%
+3,Laptop Pro 15,Laptops,High performance laptop with 16GB RAM,1299,USD,50,Dell,2 years,4.7,15%
+4,Laptop Air 13,Laptops,Lightweight laptop with 8GB RAM,999,USD,75,HP,2 years,4.6,10%
+5,4K TV 55,Electronics,55 inch 4K UHD Smart TV,599,USD,120,Sony,2 years,4.4,20%
+6,4K TV 65,Electronics,65 inch 4K UHD Smart TV,799,USD,80,LG,2 years,4.5,25%
+7,Washing Machine XL,Home Appliances,Front load washing machine,499,USD,60,Whirlpool,3 years,4.3,30%
+8,Refrigerator Pro,Home Appliances,Double door refrigerator,899,USD,40,GE,3 years,4.7,10%
+9,Microwave Oven 900W,Home Appliances,Compact microwave oven,149,USD,200,Panasonic,2 years,4.2,20%
+10,Vacuum Cleaner V8,Home Appliances,High suction vacuum cleaner,199,USD,150,Dyson,2 years,4.6,15%
+11,Running Shoes RX,Fashion,Comfortable running shoes,120,USD,300,Nike,6 months,4.5,10%
+12,Leather Jacket LX,Fashion,Genuine leather jacket,250,USD,100,Levi's,1 year,4.7,5%
+13,Sports Watch Z3,Sports,Smart sports watch with GPS,199,USD,130,Garmin,1 year,4.6,15%
+14,Yoga Mat Pro,Sports,High-density yoga mat,49,USD,500,Adidas,6 months,4.3,20%
+15,Lipstick Matte,Beauty,Long-lasting matte lipstick,25,USD,400,Maybelline,1 year,4.4,30%
+16,Face Cream Anti-Aging,Beauty,Anti-aging face cream,45,USD,250,Clinique,1 year,4.7,10%
+17,Action Figure Z,Toys,Popular action figure,35,USD,300,Hasbro,1 year,4.6,15%
+18,Lego Set 1500,Toys,1500 piece building set,99,USD,200,LEGO,2 years,4.8,5%
+19,Novel Bestseller,Books,Bestselling novel,20,USD,500,Random House,N/A,4.5,20%
+20,Notebook 5 Pack,Books,Pack of 5 notebooks,15,USD,600,Moleskine,N/A,4.4,25%
+21,Sofa 3-Seater,Furniture,Comfortable 3-seater sofa,499,USD,30,Ikea,5 years,4.3,10%
+22,Office Chair Ergonomic,Furniture,Ergonomic office chair,199,USD,70,Herman Miller,5 years,4.7,15%
+23,Garden Hose 50ft,Garden,Durable 50ft garden hose,35,USD,150,Gardena,2 years,4.4,10%
+24,Patio Set 4-Piece,Garden,Outdoor patio furniture set,599,USD,20,Home Depot,3 years,4.6,20%
+25,Car Cover XL,Automotive,All-weather car cover,49,USD,100,WeatherTech,2 years,4.5,15%
+26,Car Battery 12V,Automotive,12V car battery,99,USD,80,Optima,3 years,4.7,5%
+27,Smartwatch S2,Electronics,Smartwatch with heart rate monitor,149,USD,100,Fossil,1 year,4.3,10%
+28,Tablet Pro 12,Electronics,12 inch tablet with 64GB storage,599,USD,90,Microsoft,1 year,4.5,15%
+29,Bluetooth Speaker X5,Electronics,Portable Bluetooth speaker,99,USD,200,JBL,1 year,4.6,20%
+30,Smart Home Hub,Electronics,Smart home control hub,129,USD,150,Google,2 years,4.7,10%
+31,Blender Ultra,Home Appliances,High-speed blender,199,USD,100,Ninja,3 years,4.5,15%
+32,Air Conditioner 1.5T,Home Appliances,1.5 ton split AC,699,USD,50,Daikin,3 years,4.6,5%
+33,Smart Thermostat,Home Appliances,Wi-Fi enabled thermostat,249,USD,80,Nest,2 years,4.7,20%
+34,Sneakers Classic,Fashion,Classic design sneakers,89,USD,200,Converse,6 months,4.4,25%
+35,Sunglasses UV,Fashion,UV protection sunglasses,50,USD,150,Ray-Ban,1 year,4.5,10%
+36,Fitness Tracker B2,Sports,Advanced fitness tracker,129,USD,110,Fitbit,1 year,4.6,15%
+37,Treadmill Pro,Sports,High-end treadmill with incline,999,USD,20,NordicTrack,3 years,4.7,5%
+38,Shampoo Herbal,Beauty,Herbal anti-dandruff shampoo,15,USD,300,Herbal Essences,6 months,4.3,20%
+39,Perfume Eau,Fashion,Luxury eau de parfum,120,USD,80,Chanel,2 years,4.7,10%
+40,Board Game Fun,Toys,Family board game,29,USD,150,Mattel,1 year,4.4,15%
+41,Drum Set Junior,Toys,Beginner drum set,149,USD,30,Yamaha,2 years,4.6,10%
+42,Cookbook Recipes,Books,Collection of healthy recipes,30,USD,100,Penguin,N/A,4.5,20%
+43,Desk Organizer,Furniture,Multi-functional desk organizer,39,USD,100,Ikea,1 year,4.4,15%
+44,Watering Can,Garden,Stainless steel watering can,25,USD,100,Home Depot,2 years,4.3,10%
+45,Chainsaw Electric,Garden,Electric chainsaw with safety features,199,USD,20,Black+Decker,2 years,4.7,20%
+46,Oil Filter Automotive,Automotive,High-performance oil filter,15,USD,150,Bosch,1 year,4.5,25%
+47,Dash Cam HD,Automotive,HD dashboard camera,99,USD,100,Garmin,1 year,4.6,15%
+48,Camera DSLR,Electronics,DSLR camera with 24MP sensor,599,USD,50,Canon,2 years,4.8,10%
+49,Headphones Noise Cancelling,Electronics,Over-ear noise cancelling headphones,299,USD,80,Bose,1 year,4.7,5%
+50,Gaming Console Z,Electronics,Next-gen gaming console,499,USD,100,Sony,2 years,4.9,0%
